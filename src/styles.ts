@@ -86,7 +86,6 @@ export const styles = css`
     top: 0;
     bottom: 0;
     /* z-index: 50; */
-    z-index: 10;
     display: flex;
   }
   #lock {
